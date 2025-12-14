@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d4fdc9dd574254791d1369fa6e0310, type: 3}
+  m_Name: T1_Melee
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Club
+  icon: {fileID: -8179056009540421964, guid: 3a10047ac997295478a8772502428288, type: 3}
+  preferredColor: {r: 1, g: 1, b: 1, a: 1}
+  description: 
+  itemType: 0
+  rarity: 0
+  unlockAtAge: 1
+  goldCost: 10
+  canShoot: 1
+  damage: 25
+  attackSpeed: 1
+  range: 1.5
+  health: 100
+  projectilePrefab: {fileID: 0}
+  isBuffer: 0
+  buffRange: 1.1
+  damageMultiplier: 1
+  speedMultiplier: 1
+  validMergePartner: {fileID: 11400000, guid: bb82c5098f1c49c4fa1c8e9ae7eb8c95, type: 2}
+  resultItem: {fileID: 11400000, guid: 425d55e5b6fe1134e8db73816df3d367, type: 2}
+  alternativeMergePartner: {fileID: 0}
+  alternativeResultItem: {fileID: 0}
+  animationCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

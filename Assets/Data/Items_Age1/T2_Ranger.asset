@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0d4fdc9dd574254791d1369fa6e0310, type: 3}
+  m_Name: T2_Ranger
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Masked Darter
+  icon: {fileID: -4620019831128708290, guid: fe7a2abd6632d24448cdb44b9ba5a336, type: 3}
+  preferredColor: {r: 1, g: 1, b: 1, a: 1}
+  description: 
+  itemType: 0
+  rarity: 1
+  unlockAtAge: 1
+  goldCost: 20
+  canShoot: 1
+  damage: 22
+  attackSpeed: 1.2
+  range: 6
+  health: 60
+  projectilePrefab: {fileID: 7445787027008956043, guid: 02aa8104980e2484fb3061813edbd306, type: 3}
+  isBuffer: 0
+  buffRange: 1.1
+  damageMultiplier: 1
+  speedMultiplier: 1
+  validMergePartner: {fileID: 11400000, guid: db9d03e47cbdb694eb28c4a6009ba642, type: 2}
+  resultItem: {fileID: 11400000, guid: d6c70b14985f40f47ba0035c4ea87418, type: 2}
+  alternativeMergePartner: {fileID: 0}
+  alternativeResultItem: {fileID: 0}
+  animationCurve:
+    serializedVersion: 2
+    m_Curve: []
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
